@@ -1,4 +1,4 @@
-service: node-in-aws-web
+service: ecommerce-react-shop-aws
 
 frameworkVersion: "2"
 
@@ -18,7 +18,7 @@ plugins:
 
 custom:
   client:
-    bucketName: module-2-ecommerce-react
+    bucketName: ecommerce-react-shop-aws
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 

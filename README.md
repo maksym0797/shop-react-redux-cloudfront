@@ -1,9 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## S3 Bucket URL
+
+[https://ecommerce-react-shop-aws.s3.eu-central-1.amazonaws.com/index.html](https://ecommerce-react-shop-aws.s3.eu-central-1.amazonaws.com/index.html)
+
+## Cloudfront URL
+
+[https://d3awrh5hk5098s.cloudfront.net](https://d3awrh5hk5098s.cloudfront.net)
+
 ## Available Scripts
 
 In the project directory, you can run:  
-You can use NPM instead of YARN (Up to you)  
+You can use NPM instead of YARN (Up to you)
 
 ### `yarn start` OR `npm run start`
 
