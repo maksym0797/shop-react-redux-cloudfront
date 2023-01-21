@@ -17,7 +17,7 @@ function App() {
   useEffect(() => {
     localStorage.setItem(
       "authorization_token",
-      "bWFrc3ltMDc5NzpURVNUX1BBU1NXT1JE"
+      "bWFrc3ltMDc5NzpURVNUX1BBU1NXT1JE" // needs to be here
     );
   }, []);
   return (
